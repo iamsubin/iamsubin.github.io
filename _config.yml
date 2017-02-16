@@ -9,7 +9,7 @@
 title: Subindev
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
- This website was made as a part of studying the deploying of a website
+ This website was made as a part of study about the deploying of a website
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://iamsubin.github.io/" # the base hostname & protocol for your site
 twitter_username: jekyllrb
