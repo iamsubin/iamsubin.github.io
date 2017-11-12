@@ -4,3 +4,7 @@ title:  "My first blog post!"
 date:   2017-11-12 21:35:39 -0500
 categories: jekyll update
 ---
+her is my first blog  post
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
